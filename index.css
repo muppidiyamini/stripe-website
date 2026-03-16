@@ -5,8 +5,6 @@ box-sizing:border-box;
 font-family: Arial, Helvetica, sans-serif;
 }
 
-/* NAVBAR */
-
 .navbar{
 display:flex;
 justify-content:space-between;
@@ -42,8 +40,6 @@ font-weight:500;
 color:#635BFF;
 }
 
-/* BUTTON */
-
 .login-btn{
 background:#635BFF;
 color:white;
@@ -56,8 +52,6 @@ cursor:pointer;
 .login-btn:hover{
 background:#5147ff;
 }
-
-/* HERO SECTION */
 
 .hero{
 padding:120px 80px;
@@ -95,8 +89,6 @@ cursor:pointer;
 background:#4c44e0;
 }
 
-/* CARDS */
-
 .card{
 width:280px;
 background:white;
@@ -125,8 +117,6 @@ transform:translateY(-6px);
 box-shadow:0 15px 35px rgba(0,0,0,0.12);
 }
 
-/* FEATURES */
-
 .features{
 display:flex;
 justify-content:center;
@@ -144,8 +134,6 @@ width:300px;
 margin-bottom:10px;
 color:#0a2540;
 }
-
-/* FOOTER */
 
 footer{
 background:#0a2540;
