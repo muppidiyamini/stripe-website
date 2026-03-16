@@ -1,4 +1,3 @@
-// Navbar shadow on scroll
 
 window.addEventListener("scroll", function() {
 
@@ -14,9 +13,6 @@ navbar.style.boxShadow = "none";
 }
 
 });
-
-
-// Button click animation
 
 const btn = document.querySelector(".start-btn");
 
